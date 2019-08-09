@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainDiv {
+    height: 100vh;
+    background-image: linear-gradient(to right, #70d4c2, #63ddbe, #5be5b6, #5aedab, #61f49d);
+
+}
+
+.NameDiv {
+    width: 600px;
+    font-family: 'Roboto', sans-serif;
+    /* margin: 0 auto; */
+    color: whitesmoke;
+
+}
+
+.NameDiv:hover {
+    /* color: black; */
+    background-image: whitesmoke;
+    color:   #70d4c2;
+}
+
+.navbar {
+    background-color: greenyellow !important;
+    
+}
+.nav-item{
+    color: yellow !important;
+
+}
+
+.intro {
+    height: 100vh;
+    background-image: linear-gradient(grey, black);
+    color: white;
+}
+
+
+
+#row2 {
+    color: white;
+}
